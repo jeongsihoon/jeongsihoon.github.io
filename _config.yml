@@ -30,7 +30,7 @@ url: "https://jeongsihoon.github.io" # the base hostname & protocol for your sit
 github_username:  jeongsihoon
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
